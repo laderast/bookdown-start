@@ -1,7 +1,7 @@
 book_filename: "bookdown-start"
 chapter_name: "Chapter "
-repo: https://github.com/seankross/bookdown-start
-output_dir: docs
-rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-App1.Rmd", "03-App2.Rmd", "04-App3.Rmd", "05-App4.Rmd"]
+repo: https://github.com/laderast/gradual_shiny_bookdown/
+output_dir: ../gradual_shiny/docs/
+rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-App1.Rmd", "03-App2.Rmd", "04-App3.Rmd", "05-App4.Rmd", "06-finished-app.Rmd", "07-shinytest.Rmd", "08-where-next.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
